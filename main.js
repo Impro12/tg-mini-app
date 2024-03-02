@@ -1,7 +1,7 @@
 import {Telegraf, Markup} from 'telegraf'
 
 const token = '6788408872:AAGygind7MMQkxInFxNyUCssZJzv5He9OIE' 
-const webAppUrl = 'https://mille.online/' 
+const webAppUrl = 'https://playcanv.as/p/JtL2iqIH/' 
 
 const bot = new Telegraf (token)
 
